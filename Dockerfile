@@ -35,3 +35,4 @@ RUN \
   yarn cache clean
 
 CMD yarn run start
+# NODE_ENV=production node $NODE_OPTS server/server

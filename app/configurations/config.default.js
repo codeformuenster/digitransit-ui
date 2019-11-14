@@ -747,6 +747,7 @@ export default {
     oulu: 'oulu',
     hameenlinna: 'hameenlinna',
     matka: 'matka',
+    cfm: 'cfm',
     salo: 'salo',
     rovaniemi: 'rovaniemi',
     kouvola: 'kouvola',
